@@ -34,11 +34,11 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="51%">
-        <img src="https://github-readme-stats.vercel.app/api?username=hinata-koizumi&locale=en&show_icons=true&rank_icon=github&include_all_commits=false&show=reviews,discussions_started,discussions_answered,prs_merged&number_format=long&theme=default&title_color=ffffff&text_color=ffffff&icon_color=ffffff&ring_color=ffffff&bg_color=35,473B7B,3584A7,30D2BE&border_radius=10&card_width=350" alt="github stats" width="100%" />
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=hinata-koizumi&locale=en&show_icons=true&rank_icon=github&include_all_commits=false&show=reviews,discussions_started,discussions_answered,prs_merged&number_format=long&theme=default&title_color=ffffff&text_color=ffffff&icon_color=ffffff&ring_color=ffffff&bg_color=35,473B7B,3584A7,30D2BE&border_radius=10&card_width=340" alt="github stats" width="100%" />
       </td>
-      <td align="center" width="49%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hinata-koizumi&locale=en&show_icons=true&size_weight=0.5&count_weight=0.5&langs_count=20&layout=compact&theme=default&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=35,473B7B,3584A7,30D2BE&border_radius=10&card_width=340" alt="Top Langs" width="100%" />
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hinata-koizumi&locale=en&show_icons=true&size_weight=0.5&count_weight=0.5&langs_count=20&layout=compact&theme=default&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=35,473B7B,3584A7,30D2BE&border_radius=10&card_width=360" alt="Top Langs" width="100%" />
       </td>
     </tr>
   </table>
