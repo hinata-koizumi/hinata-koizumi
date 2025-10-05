@@ -4,7 +4,7 @@
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="50%" align="center">
 
 <strong>Languages</strong>
 
@@ -13,22 +13,13 @@
 <sub>Python • R • Java • Scala • JavaScript • TypeScript</sub>
 
 </td>
-<td width="33%" align="center">
-
-<strong>Data Science</strong>
-
-<br>
-
-<sub>Pandas • NumPy • scikit-learn • PyTorch • TensorFlow • Jupyter</sub>
-
-</td>
-<td width="33%" align="center">
+<td width="50%" align="center">
 
 <strong>Tools</strong>
 
 <br>
 
-<sub>Git • GitHub • Docker • Kubernetes • AWS • GCP • Linux • VS Code</sub>
+<sub>Pandas • NumPy • scikit-learn • PyTorch • TensorFlow • Jupyter • Git • GitHub • Docker • Kubernetes • AWS • GCP • Linux • VS Code</sub>
 
 </td>
 </tr>
