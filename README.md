@@ -1,17 +1,3 @@
-<div align="left">
-
-<strong>Skills</strong>
-
-</div>
-
-<div align="center">
-
-<div style="max-width: 840px; margin: 0 auto;">
-<img src="https://skillicons.dev/icons?i=python,r,java,scala,ruby,js,ts,pandas,numpy,scikitlearn,pytorch,tensorflow,jupyter,git,github,docker,kubernetes,aws,gcp,linux,vscode&theme=dark&perline=14&size=48" alt="Skills" />
-</div>
-
-</div>
-
 <div align="center">
   <table>
     <tr>
