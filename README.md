@@ -12,19 +12,19 @@
 
 <div align="center">
   <a href="https://github.com/hinata-koizumi/drone_avoidance_rl">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hinata-koizumi&repo=drone_avoidance_rl&theme=tokyonight&hide_border=true&title_color=61AFEF&icon_color=61AFEF&text_color=ABB2BF&bg_color=1a1b27" alt="Drone Avoidance RL" width="400" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hinata-koizumi&repo=drone_avoidance_rl&theme=tokyonight&hide_border=true&title_color=61AFEF&icon_color=61AFEF&text_color=ABB2BF&bg_color=1a1b27&show_owner=true" alt="Drone Avoidance RL" width="400" height="200" style="object-fit: cover;" />
   </a>
   <a href="https://github.com/hinata-koizumi/tokyo-tree-doctor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hinata-koizumi&repo=tokyo-tree-doctor&theme=tokyonight&hide_border=true&title_color=61AFEF&icon_color=61AFEF&text_color=ABB2BF&bg_color=1a1b27" alt="Tokyo Tree Doctor" width="400" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hinata-koizumi&repo=tokyo-tree-doctor&theme=tokyonight&hide_border=true&title_color=61AFEF&icon_color=61AFEF&text_color=ABB2BF&bg_color=1a1b27&show_owner=true" alt="Tokyo Tree Doctor" width="400" height="200" style="object-fit: cover;" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/hinata-koizumi/investment-roi-simulator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hinata-koizumi&repo=investment-roi-simulator&theme=tokyonight&hide_border=true&title_color=61AFEF&icon_color=61AFEF&text_color=ABB2BF&bg_color=1a1b27" alt="Investment ROI Simulator" width="400" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hinata-koizumi&repo=investment-roi-simulator&theme=tokyonight&hide_border=true&title_color=61AFEF&icon_color=61AFEF&text_color=ABB2BF&bg_color=1a1b27&show_owner=true" alt="Investment ROI Simulator" width="400" height="200" style="object-fit: cover;" />
   </a>
   <a href="https://github.com/hinata-koizumi/hinata-koizumi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hinata-koizumi&repo=hinata-koizumi&theme=tokyonight&hide_border=true&title_color=61AFEF&icon_color=61AFEF&text_color=ABB2BF&bg_color=1a1b27" alt="Profile Repository" width="400" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hinata-koizumi&repo=hinata-koizumi&theme=tokyonight&hide_border=true&title_color=61AFEF&icon_color=61AFEF&text_color=ABB2BF&bg_color=1a1b27&show_owner=true" alt="Profile Repository" width="400" height="200" style="object-fit: cover;" />
   </a>
 </div>
 
