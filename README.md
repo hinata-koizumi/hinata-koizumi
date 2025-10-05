@@ -16,9 +16,5 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hinata-koizumi&theme=default&hide_border=true&stroke=0000&background=35,473B7B,3584A7,30D2BE&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" width="100%" />
-</div>
-
-<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hinata-koizumi&theme=algolia&no-bg=false&no-frame=false&column=5&row=2&margin-w=5&margin-h=5" alt="trophy" width="100%" />
 </div>
