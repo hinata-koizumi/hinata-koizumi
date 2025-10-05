@@ -46,7 +46,7 @@
 ## Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hinata-koizumi&theme=onedark&no-bg=true&no-frame=true&column=6&row=2&margin-w=5&margin-h=5" alt="Trophy" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hinata-koizumi&theme=dark&no-bg=true&no-frame=true&column=6&row=2&margin-w=5&margin-h=5" alt="Trophy" width="100%" />
 </div>
 
 ---
