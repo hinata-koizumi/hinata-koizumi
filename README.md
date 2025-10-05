@@ -41,7 +41,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hinata-koizumi&theme=github-dark&hide_border=true&area=true&title=Contribution%20Graph&t=1730832000&bg_color=35,473B7B,3584A7,30D2BE&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff" alt="Activity Graph" width="100%" height="400" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hinata-koizumi&theme=github-dark&hide_border=true&area=true&title=Contribution%20Graph&t=1730832000" alt="Activity Graph" width="100%" height="400" />
 </div>
 
 <div align="center">
