@@ -1,5 +1,6 @@
 <div align="center">
   <h1>Hinata Koizumi</h1>
+  <p>Thanks for visiting!<br>Feel free to explore my repositories and don't hesitate to reach out!</p>
 </div>
 
 ---
@@ -115,8 +116,3 @@
 </div>
 
 ---
-
-<div align="center">
-  <h2>Thanks for visiting!</h2>
-  <p>Feel free to explore my repositories and don't hesitate to reach out!</p>
-</div>
