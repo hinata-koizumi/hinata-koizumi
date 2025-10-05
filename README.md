@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm Hinata Koizumi</h1>
+  <h1>Hinata Koizumi</h1>
   <h3>Machine Learning Enthusiast • Data Science Student • Open Source Contributor</h3>
 </div>
 
