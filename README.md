@@ -33,37 +33,6 @@
 
 ---
 
-## Tech Stack
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hinata-koizumi&layout=compact&theme=tokyonight&hide_border=true&title_color=61AFEF&text_color=ABB2BF&bg_color=1a1b27&langs_count=6" alt="Top Languages" width="400" />
-      </td>
-      <td align="center" width="50%">
-        <table>
-          <tr>
-            <td align="center" width="33%">
-              <h4>Languages</h4>
-              <img src="https://skillicons.dev/icons?i=python,r,java,scala&theme=dark" alt="Languages" />
-            </td>
-            <td align="center" width="33%">
-              <h4>Data Science</h4>
-              <img src="https://skillicons.dev/icons?i=pandas,scikitlearn,pytorch,tensorflow&theme=dark" alt="Data Science" />
-            </td>
-            <td align="center" width="33%">
-              <h4>Tools</h4>
-              <img src="https://skillicons.dev/icons?i=git,docker,aws,gcp&theme=dark" alt="Tools" />
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
 
 ## GitHub Analytics
 
