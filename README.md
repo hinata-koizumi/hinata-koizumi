@@ -36,17 +36,18 @@
 ## Status
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hinata-koizumi&theme=github-dark&hide_border=true&area=true&title=Contribution%20Graph&t=1730832000" alt="Activity Graph" width="100%" />
-</div>
-
-<div align="center">
   <table>
     <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=hinata-koizumi&locale=en&show_icons=true&rank_icon=github&include_all_commits=false&show=reviews,discussions_started,discussions_answered,prs_merged&number_format=long&theme=default&title_color=ffffff&text_color=ffffff&icon_color=ffffff&ring_color=ffffff&bg_color=35,473B7B,3584A7,30D2BE&border_radius=10&line_height=25&card_width=420" alt="github stats" height="200px" />
+      <td align="center" valign="top" width="65%">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=hinata-koizumi&theme=github-dark&hide_border=true&area=true&title=Contribution%20Graph&t=1730832000" alt="Activity Graph" width="600" />
       </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hinata-koizumi&locale=en&show_icons=true&size_weight=0.5&count_weight=0.5&langs_count=20&layout=compact&theme=default&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=35,473B7B,3584A7,30D2BE&border_radius=10&card_width=330" alt="Top Langs" height="200px" />
+      <td align="center" valign="top" width="35%">
+        <div>
+          <img src="https://github-readme-stats.vercel.app/api?username=hinata-koizumi&locale=en&show_icons=true&rank_icon=github&include_all_commits=false&show=reviews,discussions_started,discussions_answered,prs_merged&number_format=long&theme=default&title_color=ffffff&text_color=ffffff&icon_color=ffffff&ring_color=ffffff&bg_color=35,473B7B,3584A7,30D2BE&border_radius=10&line_height=25&card_width=330" alt="github stats" height="180px" />
+        </div>
+        <div>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hinata-koizumi&locale=en&show_icons=true&size_weight=0.5&count_weight=0.5&langs_count=20&layout=compact&theme=default&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=35,473B7B,3584A7,30D2BE&border_radius=10&card_width=330" alt="Top Langs" height="180px" />
+        </div>
       </td>
     </tr>
   </table>
