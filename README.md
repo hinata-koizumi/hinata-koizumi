@@ -1,5 +1,5 @@
 <div align="center">
-  <div style="max-width: 1200px; margin: 0 auto;">
+  <div style="max-width: 840px; margin: 0 auto;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hinata-koizumi&locale=en&show_icons=true&size_weight=0.5&count_weight=0.5&langs_count=20&layout=compact&theme=default&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=0D1117&hide_border=true&border_radius=10" alt="Top Langs" width="100%" height="180" />
   </div>
 </div>
