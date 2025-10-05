@@ -10,7 +10,7 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=python,r,java,scala,js,ts&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=python,r,java,scala,ruby,js,ts&theme=dark" alt="Languages" />
 
 </td>
 <td width="50%" align="center">
