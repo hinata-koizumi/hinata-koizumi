@@ -11,10 +11,10 @@
   <h3>📍 Location</h3>
   <p>Kanagawa, Japan</p>
   
-  <h3>🔬 Research Interests</h3>
-  <p>Machine Learning • Reinforcement Learning • Data Science</p>
+  <h3>Research Interests</h3>
+  <p>Machine Learning • Reinforcement Learning • Data Science • Robotics • Drones</p>
   
-  <h3>💻 Core Skills</h3>
+  <h3>Core Skills</h3>
   <p>Python • Data Analysis • Ensemble Learning • Statistical Modeling</p>
 </div>
 
