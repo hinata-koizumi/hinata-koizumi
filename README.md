@@ -25,6 +25,6 @@
 
 <div align="center">
   <div style="max-width: 840px; margin: 0 auto;">
-    <img src="https://github-profile-trophy.vercel.app/?username=hinata-koizumi&theme=algolia&no-bg=false&no-frame=false&column=5&row=2&margin-w=5&margin-h=5&t=1730832300" alt="trophy" width="100%" />
+    <img src="https://github-profile-trophy.vercel.app/?username=hinata-koizumi&theme=algolia&no-bg=true&no-frame=true" alt="trophy" width="100%" />
   </div>
 </div>
