@@ -11,21 +11,32 @@
 ## Projects
 
 <div align="center">
-  <a href="https://github.com/hinata-koizumi/drone_avoidance_rl">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hinata-koizumi&repo=drone_avoidance_rl&theme=tokyonight&hide_border=true&title_color=61AFEF&icon_color=61AFEF&text_color=ABB2BF&bg_color=1a1b27&show_owner=true" alt="Drone Avoidance RL" width="400" height="200" style="object-fit: cover;" />
-  </a>
-  <a href="https://github.com/hinata-koizumi/tokyo-tree-doctor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hinata-koizumi&repo=tokyo-tree-doctor&theme=tokyonight&hide_border=true&title_color=61AFEF&icon_color=61AFEF&text_color=ABB2BF&bg_color=1a1b27&show_owner=true" alt="Tokyo Tree Doctor" width="400" height="200" style="object-fit: cover;" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/hinata-koizumi/investment-roi-simulator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hinata-koizumi&repo=investment-roi-simulator&theme=tokyonight&hide_border=true&title_color=61AFEF&icon_color=61AFEF&text_color=ABB2BF&bg_color=1a1b27&show_owner=true" alt="Investment ROI Simulator" width="400" height="200" style="object-fit: cover;" />
-  </a>
-  <a href="https://github.com/hinata-koizumi/hinata-koizumi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hinata-koizumi&repo=hinata-koizumi&theme=tokyonight&hide_border=true&title_color=61AFEF&icon_color=61AFEF&text_color=ABB2BF&bg_color=1a1b27&show_owner=true" alt="Profile Repository" width="400" height="200" style="object-fit: cover;" />
-  </a>
+  <table style="border-collapse: collapse; border: none; width: 100%;">
+    <tr>
+      <td style="border: none; padding: 10px; width: 50%; vertical-align: top;">
+        <a href="https://github.com/hinata-koizumi/drone_avoidance_rl">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=hinata-koizumi&repo=drone_avoidance_rl&theme=tokyonight&hide_border=true&title_color=61AFEF&icon_color=61AFEF&text_color=ABB2BF&bg_color=1a1b27&show_owner=true" alt="Drone Avoidance RL" style="width: 100%; max-width: 400px; height: 200px; object-fit: cover; display: block;" />
+        </a>
+      </td>
+      <td style="border: none; padding: 10px; width: 50%; vertical-align: top;">
+        <a href="https://github.com/hinata-koizumi/tokyo-tree-doctor">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=hinata-koizumi&repo=tokyo-tree-doctor&theme=tokyonight&hide_border=true&title_color=61AFEF&icon_color=61AFEF&text_color=ABB2BF&bg_color=1a1b27&show_owner=true" alt="Tokyo Tree Doctor" style="width: 100%; max-width: 400px; height: 200px; object-fit: cover; display: block;" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td style="border: none; padding: 10px; width: 50%; vertical-align: top;">
+        <a href="https://github.com/hinata-koizumi/investment-roi-simulator">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=hinata-koizumi&repo=investment-roi-simulator&theme=tokyonight&hide_border=true&title_color=61AFEF&icon_color=61AFEF&text_color=ABB2BF&bg_color=1a1b27&show_owner=true" alt="Investment ROI Simulator" style="width: 100%; max-width: 400px; height: 200px; object-fit: cover; display: block;" />
+        </a>
+      </td>
+      <td style="border: none; padding: 10px; width: 50%; vertical-align: top;">
+        <a href="https://github.com/hinata-koizumi/hinata-koizumi">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=hinata-koizumi&repo=hinata-koizumi&theme=tokyonight&hide_border=true&title_color=61AFEF&icon_color=61AFEF&text_color=ABB2BF&bg_color=1a1b27&show_owner=true" alt="Profile Repository" style="width: 100%; max-width: 400px; height: 200px; object-fit: cover; display: block;" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
