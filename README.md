@@ -11,14 +11,37 @@
   <img alt="My Skills" src="https://skillicons.dev/icons?theme=dark&perline=12&i=python,r,pandas,scikitlearn,pytorch,git,github,docker,gcp,vscode" width="576" />
 </div>
 
-
 ## Status
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=hinata-koizumi&locale=en&show_icons=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged&theme=tokyonight&hide_border=true&title_color=61AFEF&icon_color=61AFEF&text_color=ABB2BF&bg_color=282c34" alt="GitHub Stats" height="200px" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hinata-koizumi&locale=en&langs_count=10&layout=compact&theme=tokyonight&hide_border=true&title_color=61AFEF&icon_color=61AFEF&text_color=ABB2BF&bg_color=282c34" alt="Top Languages" height="200px" />
-    <img src="https://github-profile-trophy.vercel.app/?username=hinata-koizumi&theme=tokyonight&no-bg=true&no-frame=true&column=7&row=2&margin-w=5&margin-h=5" alt="Trophy" width="576" />
-</p>
+<div align="center">
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=hinata-koizumi&locale=en&show_icons=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged&theme=tokyonight&hide_border=true&title_color=61AFEF&icon_color=61AFEF&text_color=ABB2BF&bg_color=282c34" alt="GitHub Stats" height="200px" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hinata-koizumi&locale=en&langs_count=10&layout=compact&theme=tokyonight&hide_border=true&title_color=61AFEF&icon_color=61AFEF&text_color=ABB2BF&bg_color=282c34" alt="Top Languages" height="200px" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=hinata-koizumi&theme=tokyonight&no-bg=true&no-frame=true&column=7&row=2&margin-w=5&margin-h=5" alt="Trophy" width="576" />
+    </td>
+  </tr>
+</table>
+</div>
 
 ## Projects
 <p align="center">
-    <a href="
+    <a href="https://github.com/hinata-koizumi/YourRepoName1">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hinata-koizumi&repo=YourRepoName1&theme=tokyonight&hide_border=true&title_color=61AFEF&icon_color=61AFEF&text_color=ABB2BF&bg_color=282c34" alt="repo1" width="288" />
+    </a>
+    <a href="https://github.com/hinata-koizumi/YourRepoName2">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hinata-koizumi&repo=YourRepoName2&theme=tokyonight&hide_border=true&title_color=61AFEF&icon_color=61AFEF&text_color=ABB2BF&bg_color=282c34" alt="repo2" width="288" />
+    </a>
+    <a href="https://github.com/hinata-koizumi/YourRepoName3">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hinata-koizumi&repo=YourRepoName3&theme=tokyonight&hide_border=true&title_color=61AFEF&icon_color=61AFEF&text_color=ABB2BF&bg_color=282c34" alt="repo3" width="288" />
+    </a>
+    <a href="https://github.com/hinata-koizumi/YourRepoName4">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hinata-koizumi&repo=YourRepoName4&theme=tokyonight&hide_border=true&title_color=61AFEF&icon_color=61AFEF&text_color=ABB2BF&bg_color=282c34" alt="repo4" width="288" />
+    </a>
+</p>
