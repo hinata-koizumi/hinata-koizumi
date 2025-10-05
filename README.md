@@ -1,6 +1,6 @@
 <div align="left">
   <h1>Thanks for visiting</h1>
-  <h3>Feel free to reach out</h3>
+  <h1>Feel free to reach out</h1>
 </div>
 
 <div align="center">
