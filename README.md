@@ -39,10 +39,10 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hinata-koizumi&layout=compact&theme=tokyonight&hide_border=true&title_color=61AFEF&text_color=ABB2BF&bg_color=0D1117&langs_count=8" alt="Top Languages" width="400" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hinata-koizumi&layout=compact&theme=tokyonight&hide_border=true&title_color=61AFEF&text_color=ABB2BF&bg_color=1a1b27&langs_count=8" alt="Top Languages" width="400" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hinata-koizumi&theme=tokyonight&hide_border=true&title_color=61AFEF&text_color=ABB2BF&bg_color=0D1117&layout=compact" alt="WakaTime Stats" width="400" />
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hinata-koizumi&theme=tokyonight&hide_border=true&title_color=61AFEF&text_color=ABB2BF&bg_color=1a1b27&layout=compact" alt="WakaTime Stats" width="400" />
       </td>
     </tr>
   </table>
@@ -71,17 +71,17 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=hinata-koizumi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=61AFEF&icon_color=61AFEF&text_color=ABB2BF&bg_color=0D1117" alt="GitHub Stats" width="400" />
+        <img src="https://github-readme-stats.vercel.app/api?username=hinata-koizumi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=61AFEF&icon_color=61AFEF&text_color=ABB2BF&bg_color=1a1b27" alt="GitHub Stats" width="400" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hinata-koizumi&layout=compact&theme=tokyonight&hide_border=true&title_color=61AFEF&text_color=ABB2BF&bg_color=0D1117" alt="Top Languages" width="300" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hinata-koizumi&layout=compact&theme=tokyonight&hide_border=true&title_color=61AFEF&text_color=ABB2BF&bg_color=1a1b27" alt="Top Languages" width="300" />
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hinata-koizumi&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=61AFEF&fire=61AFEF&currStreakNum=61AFEF&sideNums=61AFEF&currStreakLabel=61AFEF&sideLabels=61AFEF&dates=61AFEF" alt="GitHub Streak" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hinata-koizumi&theme=tokyonight&hide_border=true&stroke=0000&background=1a1b27&ring=61AFEF&fire=61AFEF&currStreakNum=61AFEF&sideNums=61AFEF&currStreakLabel=61AFEF&sideLabels=61AFEF&dates=61AFEF" alt="GitHub Streak" width="100%" />
 </div>
 
 ---
@@ -101,24 +101,24 @@
     <tr>
       <td align="center">
         <a href="https://github.com/hinata-koizumi/drone_avoidance_rl">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=hinata-koizumi&repo=drone_avoidance_rl&theme=tokyonight&hide_border=true&title_color=61AFEF&icon_color=61AFEF&text_color=ABB2BF&bg_color=0D1117" alt="Drone Avoidance RL" width="400" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=hinata-koizumi&repo=drone_avoidance_rl&theme=tokyonight&hide_border=true&title_color=61AFEF&icon_color=61AFEF&text_color=ABB2BF&bg_color=1a1b27" alt="Drone Avoidance RL" width="400" />
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/hinata-koizumi/tokyo-tree-doctor">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=hinata-koizumi&repo=tokyo-tree-doctor&theme=tokyonight&hide_border=true&title_color=61AFEF&icon_color=61AFEF&text_color=ABB2BF&bg_color=0D1117" alt="Tokyo Tree Doctor" width="400" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=hinata-koizumi&repo=tokyo-tree-doctor&theme=tokyonight&hide_border=true&title_color=61AFEF&icon_color=61AFEF&text_color=ABB2BF&bg_color=1a1b27" alt="Tokyo Tree Doctor" width="400" />
         </a>
       </td>
     </tr>
     <tr>
       <td align="center">
         <a href="https://github.com/hinata-koizumi/investment-roi-simulator">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=hinata-koizumi&repo=investment-roi-simulator&theme=tokyonight&hide_border=true&title_color=61AFEF&icon_color=61AFEF&text_color=ABB2BF&bg_color=0D1117" alt="Investment ROI Simulator" width="400" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=hinata-koizumi&repo=investment-roi-simulator&theme=tokyonight&hide_border=true&title_color=61AFEF&icon_color=61AFEF&text_color=ABB2BF&bg_color=1a1b27" alt="Investment ROI Simulator" width="400" />
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/hinata-koizumi/hinata-koizumi">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=hinata-koizumi&repo=hinata-koizumi&theme=tokyonight&hide_border=true&title_color=61AFEF&icon_color=61AFEF&text_color=ABB2BF&bg_color=0D1117" alt="Profile Repository" width="400" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=hinata-koizumi&repo=hinata-koizumi&theme=tokyonight&hide_border=true&title_color=61AFEF&icon_color=61AFEF&text_color=ABB2BF&bg_color=1a1b27" alt="Profile Repository" width="400" />
         </a>
       </td>
     </tr>
