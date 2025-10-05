@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <h1>Hinata Koizumi</h1>
   <p>Thanks for visiting!<br>Feel free to explore my repositories and don't hesitate to reach out!</p>
 </div>
