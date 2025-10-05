@@ -101,25 +101,25 @@
   <table>
     <tr>
       <td align="center">
-        <a href="https://github.com/hinata-koizumi/YourRepoName1">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=hinata-koizumi&repo=YourRepoName1&theme=tokyonight&hide_border=true&title_color=61AFEF&icon_color=61AFEF&text_color=ABB2BF&bg_color=0D1117" alt="Project 1" width="400" />
+        <a href="https://github.com/hinata-koizumi/drone_avoidance_rl">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=hinata-koizumi&repo=drone_avoidance_rl&theme=tokyonight&hide_border=true&title_color=61AFEF&icon_color=61AFEF&text_color=ABB2BF&bg_color=0D1117" alt="Drone Avoidance RL" width="400" />
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/hinata-koizumi/YourRepoName2">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=hinata-koizumi&repo=YourRepoName2&theme=tokyonight&hide_border=true&title_color=61AFEF&icon_color=61AFEF&text_color=ABB2BF&bg_color=0D1117" alt="Project 2" width="400" />
+        <a href="https://github.com/hinata-koizumi/tokyo-tree-doctor">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=hinata-koizumi&repo=tokyo-tree-doctor&theme=tokyonight&hide_border=true&title_color=61AFEF&icon_color=61AFEF&text_color=ABB2BF&bg_color=0D1117" alt="Tokyo Tree Doctor" width="400" />
         </a>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <a href="https://github.com/hinata-koizumi/YourRepoName3">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=hinata-koizumi&repo=YourRepoName3&theme=tokyonight&hide_border=true&title_color=61AFEF&icon_color=61AFEF&text_color=ABB2BF&bg_color=0D1117" alt="Project 3" width="400" />
+        <a href="https://github.com/hinata-koizumi/investment-roi-simulator">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=hinata-koizumi&repo=investment-roi-simulator&theme=tokyonight&hide_border=true&title_color=61AFEF&icon_color=61AFEF&text_color=ABB2BF&bg_color=0D1117" alt="Investment ROI Simulator" width="400" />
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/hinata-koizumi/YourRepoName4">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=hinata-koizumi&repo=YourRepoName4&theme=tokyonight&hide_border=true&title_color=61AFEF&icon_color=61AFEF&text_color=ABB2BF&bg_color=0D1117" alt="Project 4" width="400" />
+        <a href="https://github.com/hinata-koizumi/hinata-koizumi">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=hinata-koizumi&repo=hinata-koizumi&theme=tokyonight&hide_border=true&title_color=61AFEF&icon_color=61AFEF&text_color=ABB2BF&bg_color=0D1117" alt="Profile Repository" width="400" />
         </a>
       </td>
     </tr>
