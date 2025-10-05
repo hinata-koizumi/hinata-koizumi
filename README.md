@@ -1,3 +1,7 @@
+<div align="left">
+  <p>Thanks for visiting — feel free to reach out anytime.</p>
+</div>
+
 <div align="center">
   <div style="max-width: 840px; margin: 0 auto;">
     <table>
