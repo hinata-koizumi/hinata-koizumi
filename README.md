@@ -1,5 +1,5 @@
 <div align="left">
-  <p><strong>Thanks for visiting</strong><br><small>Feel free to reach out</small></p>
+  <p><strong style="font-size: 22px;">Thanks for visiting</strong><br><span style="font-size: 16px;">Feel free to reach out</span></p>
 </div>
 
 <div align="center">
