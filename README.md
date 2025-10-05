@@ -4,15 +4,19 @@
 <tr>
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hinata-koizumi&custom_title=Languages&hide=stars,commits,prs,issues,contribs&show_icons=false&theme=default&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=35,473B7B,3584A7,30D2BE&border_radius=10" alt="Languages Card" width="100%" />
+<strong>Languages</strong>
+
 <br>
+
 <img src="https://skillicons.dev/icons?i=python,r,java,scala,ruby,js,ts&theme=dark" alt="Languages" />
 
 </td>
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hinata-koizumi&custom_title=Tools&hide=stars,commits,prs,issues,contribs&show_icons=false&theme=default&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=35,473B7B,3584A7,30D2BE&border_radius=10" alt="Tools Card" width="100%" />
+<strong>Tools</strong>
+
 <br>
+
 <img src="https://skillicons.dev/icons?i=pandas,numpy,scikitlearn,pytorch,tensorflow,jupyter&theme=dark" alt="Data Tools" />
 <br>
 <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,gcp,linux,vscode&theme=dark" alt="Dev Tools" />
