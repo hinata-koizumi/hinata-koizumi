@@ -1,49 +1,42 @@
 <div align="center">
-  <h1 align="center">Hinata Koizumi/小泉日南太</h1>
-  <p align="center">
-    ここにあなたの肩書や専門を入力 (例: Data Science Student | Machine Learning Engineer)
-  </p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&width=435&lines=BOOTING+SYSTEM...;AGENT_PROFILE+LOADED.;Hinata+Koizumi" alt="Typing SVG" /></a>
 </div>
 
-<hr>
+```text
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║   AGENT FILE: KOIZUMI, HINATA                                                ║
+║   STATUS: ONLINE                                                             ║
+║   PRIMARY OBJECTIVE: Data Analysis & Machine Learning Model Development      ║
+║                                                                              ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║   > Accessing current directives...                                          ║
+║   - [ACTIVE] Studying Business Data Science at Chuo University.              ║
+║   - [ACTIVE] Developing a classifier for technical drawings.                 ║
+║   - [QUEUED] Researching reinforcement learning for autonomous drones.       ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 
-### About Me
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║   LOADING INSTALLED MODULES...                                               ║
+║                                                                              ║
+║   > LANGUAGES .... [ Python | R | SQL ]                                      ║
+║   > LIBRARIES ..... [ Scikit-learn | Pandas | PyTorch | NumPy ]              ║
+║   > TOOLS ......... [ Git | Docker | Google Cloud Platform ]                 ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 
-- ここに自己紹介文1を入力 (例: 🏫 中央大学 理工学部 ビジネスデータサイエンス学科に在籍)
-- ここに自己紹介文2を入力 (例: 🤖 機械学習モデルの開発と、現実世界の課題解決に情熱を注いでいます)
-- ここに自己紹介文3を入力 (例: 🚀 現在はアンサンブル学習、ドローンの強化学習、MLOpsを中心に学んでいます)
-- ここに自己紹介文4を入力 (例: 💡 データ分析や機械学習関連のプロジェクトでの協業に興味があります)
+<div align="center">
+  <img src="[https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical&hide_border=true&bg_color=1d1d1d&title_color=36BCF7&icon_color=36BCF7](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical&hide_border=true&bg_color=1d1d1d&title_color=36BCF7&icon_color=36BCF7)" alt="GitHub Stats"/>
+</div>
 
-<hr>
-
-### Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</p>
-
-<hr>
-
-### GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=transparent&hide_border=true&text_color=000000&icon_color=000000" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=transparent&hide_border=true&text_color=000000" alt="Top Languages"/>
-</p>
-
-<hr>
-
-### Connect with Me
-
-<p align="center">
-  <a href="https://twitter.com/YourTwitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://www.linkedin.com/in/YourLinkedIn/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║   ESTABLISHING SECURE CONNECTION...                                          ║
+║                                                                              ║
+║   > Twitter ..... [ [https://twitter.com/YourTwitter](https://twitter.com/YourTwitter) ]                        ║
+║   > LinkedIn .... [ [https://www.linkedin.com/in/YourLinkedIn/](https://www.linkedin.com/in/YourLinkedIn/) ]              ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
