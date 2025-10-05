@@ -1,29 +1,10 @@
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" align="center">
-
-<strong>Languages</strong>
+<strong>Skills</strong>
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=python,r,java,scala,ruby,js,ts&theme=dark" alt="Languages" />
-
-</td>
-<td width="50%" align="center">
-
-<strong>Tools</strong>
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=pandas,numpy,scikitlearn,pytorch,tensorflow,jupyter&theme=dark" alt="Data Tools" />
-<br>
-<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,gcp,linux,vscode&theme=dark" alt="Dev Tools" />
-
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=python,r,java,scala,ruby,js,ts,pandas,numpy,scikitlearn,pytorch,tensorflow,jupyter,git,github,docker,kubernetes,aws,gcp,linux,vscode&theme=dark" alt="Skills" />
 
 </div>
 
