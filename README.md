@@ -1,6 +1,6 @@
 <div align="center">
   <div style="max-width: 840px; margin: 0 auto;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hinata-koizumi&theme=github_dark" alt="Most Commit Language" width="100%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hinata-koizumi&layout=compact&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=ffffff" alt="Most Used Languages" width="100%" />
   </div>
 </div>
 
