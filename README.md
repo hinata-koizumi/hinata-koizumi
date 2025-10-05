@@ -1,24 +1,17 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Hinata+Koizumi;Machine+Learning+Enthusiast;Data+Science+Student;Open+Source+Contributor" alt="Typing SVG" />
+  <h1>Hi there, I'm Hinata Koizumi</h1>
+  <h3>Machine Learning Enthusiast • Data Science Student • Open Source Contributor</h3>
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome%20to%20my%20Profile&fontSize=40&fontAlignY=70&animation=twinkling&fontColor=ffffff" alt="Header" />
-</div>
-
 ## About Me
 
 <div align="center">
-  <img src="https://github.com/hinata-koizumi/hinata-koizumi/assets/your-image-id" alt="Profile" width="200" style="border-radius: 50%; border: 3px solid #61AFEF;" />
-</div>
-
-<div align="center">
-  <p><strong>Undergraduate Student at Chuo University</strong></p>
-  <p><strong>Location:</strong> Kanagawa, Japan</p>
-  <p><strong>Interests:</strong> Machine Learning • Reinforcement Learning • Data Science</p>
-  <p><strong>Expertise:</strong> Python • Data Analysis • Ensemble Learning</p>
+  <p><strong>🎓 Undergraduate Student at Chuo University</strong></p>
+  <p><strong>📍 Location:</strong> Kanagawa, Japan</p>
+  <p><strong>🔬 Interests:</strong> Machine Learning • Reinforcement Learning • Data Science</p>
+  <p><strong>💻 Expertise:</strong> Python • Data Analysis • Ensemble Learning</p>
 </div>
 
 ---
@@ -26,14 +19,16 @@
 ## Tech Stack
 
 <div align="center">
-  <h3>Languages & Frameworks</h3>
-  <img src="https://skillicons.dev/icons?i=python,r,java,scala&theme=dark" alt="Languages" />
-  
-  <h3>Data Science & ML</h3>
-  <img src="https://skillicons.dev/icons?i=pandas,scikitlearn,pytorch,tensorflow,jupyter&theme=dark" alt="Data Science" />
-  
-  <h3>Tools & Technologies</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,gcp,linux,vscode&theme=dark" alt="Tools" />
+
+### Languages & Frameworks
+`Python` `R` `Java` `Scala` `JavaScript` `TypeScript`
+
+### Data Science & ML
+`Pandas` `NumPy` `Scikit-learn` `PyTorch` `TensorFlow` `Jupyter` `Matplotlib` `Seaborn`
+
+### Tools & Technologies
+`Git` `GitHub` `Docker` `Kubernetes` `AWS` `GCP` `Linux` `VS Code` `Jupyter Notebook`
+
 </div>
 
 ---
@@ -121,5 +116,6 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontAlignY=70&animation=twinkling&fontColor=ffffff" alt="Footer" />
+  <h2>Thanks for visiting!</h2>
+  <p>Feel free to explore my repositories and don't hesitate to reach out!</p>
 </div>
