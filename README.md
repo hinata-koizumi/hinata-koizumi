@@ -1,4 +1,4 @@
-## Skills
+## Overview
 
 <div align="center">
 
@@ -28,12 +28,6 @@
 </table>
 
 </div>
-
----
-
----
-
-## Status
 
 <div align="center">
   <table>
