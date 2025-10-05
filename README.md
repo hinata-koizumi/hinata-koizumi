@@ -19,16 +19,27 @@
 ## Tech Stack
 
 <div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hinata-koizumi&layout=compact&theme=tokyonight&hide_border=true&title_color=61AFEF&text_color=ABB2BF&bg_color=0D1117&langs_count=8" alt="Top Languages" width="400" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hinata-koizumi&theme=tokyonight&hide_border=true&title_color=61AFEF&text_color=ABB2BF&bg_color=0D1117&layout=compact" alt="WakaTime Stats" width="400" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-### Languages & Frameworks
-`Python` `R` `Java` `Scala` `JavaScript` `TypeScript`
-
-### Data Science & ML
-`Pandas` `NumPy` `Scikit-learn` `PyTorch` `TensorFlow` `Jupyter` `Matplotlib` `Seaborn`
-
-### Tools & Technologies
-`Git` `GitHub` `Docker` `Kubernetes` `AWS` `GCP` `Linux` `VS Code` `Jupyter Notebook`
-
+<div align="center">
+  <h3>Languages & Frameworks</h3>
+  <img src="https://skillicons.dev/icons?i=python,r,java,scala,js,ts&theme=dark" alt="Languages" />
+  
+  <h3>Data Science & ML</h3>
+  <img src="https://skillicons.dev/icons?i=pandas,scikitlearn,pytorch,tensorflow,jupyter&theme=dark" alt="Data Science" />
+  
+  <h3>Tools & Technologies</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,gcp,linux,vscode&theme=dark" alt="Tools" />
 </div>
 
 ---
