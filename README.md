@@ -39,7 +39,7 @@
   <table>
     <tr>
       <td align="center" valign="top" width="65%">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=hinata-koizumi&theme=github-dark&hide_border=true&area=true&title=Contribution%20Graph&t=1730832000" alt="Activity Graph" width="800" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=hinata-koizumi&theme=github-dark&hide_border=true&area=true&title=Contribution%20Graph&t=1730832000&height=360" alt="Activity Graph" width="800" height="360" />
       </td>
       <td align="center" valign="top" width="35%">
         <div>
