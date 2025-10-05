@@ -13,7 +13,7 @@
 ## Status
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hinata-koizumi&theme=tokyonight&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hinata-koizumi&theme=tokyonight&hide_border=true&area=true&title=Contribution%20Graph" alt="Activity Graph" width="100%" />
 </div>
 
 <div align="center">
