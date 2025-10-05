@@ -11,7 +11,7 @@
   <h3>📍 Location</h3>
   <p>Kanagawa, Japan</p>
   
-  <h3>Research Interests</h3>
+  <h3>Interests</h3>
   <p>Machine Learning • Reinforcement Learning • Data Science • Robotics • Drones</p>
 </div>
 
