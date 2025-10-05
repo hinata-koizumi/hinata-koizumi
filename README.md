@@ -6,12 +6,6 @@
 
 <div align="center">
   <div style="max-width: 840px; margin: 0 auto;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hinata-koizumi&theme=github_dark" alt="Repos per Language" width="100%" />
-  </div>
-</div>
-
-<div align="center">
-  <div style="max-width: 840px; margin: 0 auto;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hinata-koizumi&theme=github_dark" alt="Most Commit Language" width="100%" />
   </div>
 </div>
@@ -19,33 +13,6 @@
 <div align="center">
   <div style="max-width: 840px; margin: 0 auto;">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=hinata-koizumi&theme=github-dark&hide_border=true&area=true&title=Contribution%20Graph&t=1730832000" alt="Activity Graph" width="100%" height="400" />
-  </div>
-</div>
-
-<div align="center">
-  <div style="max-width: 840px; margin: 24px auto;">
-    <h3 align="left" style="margin:0;">Showcase</h3>
-    <table>
-      <tr>
-        <td align="center">
-          <a href="https://github.com/hinata-koizumi/drone_avoidance_rl">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=hinata-koizumi&repo=drone_avoidance_rl&theme=tokyonight&hide_border=true" alt="drone_avoidance_rl" />
-          </a>
-        </td>
-        <td align="center">
-          <a href="https://github.com/hinata-koizumi/tokyo-tree-doctor">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=hinata-koizumi&repo=tokyo-tree-doctor&theme=tokyonight&hide_border=true" alt="tokyo-tree-doctor" />
-          </a>
-        </td>
-      </tr>
-    </table>
-  </div>
-</div>
-
-<div align="center">
-  <div style="max-width: 840px; margin: 24px auto;">
-    <h3 align="left" style="margin:0;">Star History</h3>
-    <img src="https://api.star-history.com/svg?repos=hinata-koizumi/drone_avoidance_rl,hinata-koizumi/tokyo-tree-doctor&type=Date" alt="Star History" width="100%" />
   </div>
 </div>
 
@@ -99,14 +66,6 @@
     <h3 align="left" style="margin:0;">Recent Activity</h3>
     <!--START_SECTION:activity-->
     <!--END_SECTION:activity-->
-  </div>
-</div>
-
-<div align="center">
-  <div style="max-width: 840px; margin: 24px auto;">
-    <!-- Extended Star History -->
-    <h3 align="left" style="margin:0;">Star History (Extended)</h3>
-    <img src="https://api.star-history.com/svg?repos=hinata-koizumi/drone_avoidance_rl,hinata-koizumi/tokyo-tree-doctor,hinata-koizumi/investment-roi-simulator&type=Date" alt="Star History" width="100%" />
   </div>
 </div>
 
