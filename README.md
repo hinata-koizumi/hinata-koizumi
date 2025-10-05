@@ -54,7 +54,7 @@
 
 ---
 
-## Featured Projects
+## Projects
 
 <div align="center">
   <table>
