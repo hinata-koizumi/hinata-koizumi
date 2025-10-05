@@ -8,10 +8,28 @@
 ## About Me
 
 <div align="center">
-  <p><strong>🎓 Undergraduate Student at Chuo University</strong></p>
-  <p><strong>📍 Location:</strong> Kanagawa, Japan</p>
-  <p><strong>🔬 Interests:</strong> Machine Learning • Reinforcement Learning • Data Science</p>
-  <p><strong>💻 Expertise:</strong> Python • Data Analysis • Ensemble Learning</p>
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>🎓 Education</h3>
+        <p>Undergraduate Student<br>Chuo University</p>
+      </td>
+      <td align="center" width="50%">
+        <h3>📍 Location</h3>
+        <p>Kanagawa, Japan</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <h3>🔬 Research Interests</h3>
+        <p>Machine Learning<br>Reinforcement Learning<br>Data Science</p>
+      </td>
+      <td align="center" width="50%">
+        <h3>💻 Core Skills</h3>
+        <p>Python • Data Analysis<br>Ensemble Learning<br>Statistical Modeling</p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
