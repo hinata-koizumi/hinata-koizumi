@@ -7,28 +7,15 @@
 
 ## About Me
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <h3>📍 Location</h3>
-        <p>Kanagawa, Japan</p>
-      </td>
-      <td align="center" width="50%">
-        <h3>🔬 Research Interests</h3>
-        <p>Machine Learning<br>Reinforcement Learning<br>Data Science</p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%">
-        <h3>💻 Core Skills</h3>
-        <p>Python • Data Analysis<br>Ensemble Learning<br>Statistical Modeling</p>
-      </td>
-      <td align="center" width="50%">
-        <!-- Empty cell for balance -->
-      </td>
-    </tr>
-  </table>
+<div align="left">
+  <h3>📍 Location</h3>
+  <p>Kanagawa, Japan</p>
+  
+  <h3>🔬 Research Interests</h3>
+  <p>Machine Learning • Reinforcement Learning • Data Science</p>
+  
+  <h3>💻 Core Skills</h3>
+  <p>Python • Data Analysis • Ensemble Learning • Statistical Modeling</p>
 </div>
 
 ---
