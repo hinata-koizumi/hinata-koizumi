@@ -47,7 +47,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=hinata-koizumi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=61AFEF&icon_color=61AFEF&text_color=ABB2BF&bg_color=1a1b27" alt="GitHub Stats" width="400" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hinata-koizumi&layout=compact&theme=tokyonight&hide_border=true&title_color=61AFEF&text_color=ABB2BF&bg_color=1a1b27" alt="Top Languages" width="300" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hinata-koizumi&layout=compact&theme=tokyonight&hide_border=true&title_color=61AFEF&text_color=ABB2BF&bg_color=1a1b27" alt="Top Languages" width="400" />
       </td>
     </tr>
   </table>
