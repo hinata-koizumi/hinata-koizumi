@@ -36,7 +36,7 @@
 ## Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hinata-koizumi&layout=compact&theme=tokyonight&hide_border=true&title_color=61AFEF&text_color=ABB2BF&bg_color=1a1b27&langs_count=8" alt="Top Languages" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hinata-koizumi&layout=compact&theme=tokyonight&hide_border=true&title_color=61AFEF&text_color=ABB2BF&bg_color=1a1b27&langs_count=6" alt="Top Languages" width="500" />
 </div>
 
 <div align="center">
