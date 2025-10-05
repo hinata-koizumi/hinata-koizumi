@@ -1,0 +1,37 @@
+name: Update Latest Releases
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '29 3 * * *'
+
+jobs:
+  update-releases:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build releases list
+        id: gen
+        run: |
+          REPOS=(hinata-koizumi/drone_avoidance_rl hinata-koizumi/tokyo-tree-doctor)
+          echo "- Latest Releases" > releases.md
+          for r in "${REPOS[@]}"; do
+            latest=$(gh release list --repo "$r" --limit 1 --json tagName,publishedAt,url -q '.[0] | "  - [\(.tagName)](\(.url)) (\(.publishedAt)) - \"'$r'\""') || true
+            if [ -n "$latest" ]; then echo "$latest" >> releases.md; fi
+          done
+          cat releases.md
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Inject into README
+        run: |
+          awk 'BEGIN{p=1} /<!-- LATEST_RELEASES:START -->/{print; p=0; print "\n"; system("cat releases.md"); next} /<!-- LATEST_RELEASES:END -->/{p=1} p' README.md > README.md.tmp
+          mv README.md.tmp README.md
+      - name: Commit changes
+        run: |
+          if git status --porcelain | grep README.md; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "chore(ci): update latest releases"
+            git push
+          fi

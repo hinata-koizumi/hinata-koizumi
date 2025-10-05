@@ -1,0 +1,19 @@
+name: Update Recent Activity
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '23 3 * * *'
+
+jobs:
+  update-activity:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Update Readme with Recent Activity
+        uses: Readme-Workflows/recent-activity@v2.6.0
+        with:
+          CONFIG_FILE: .github/recent-activity.config.yml
+          MAX_LINES: 10
+          COMMIT_MSG: 'chore(ci): update recent activity'
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
