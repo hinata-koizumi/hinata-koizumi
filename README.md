@@ -10,7 +10,7 @@
 
 <br>
 
-<sub>Python • R • Java • Scala • JavaScript • TypeScript</sub>
+<img src="https://skillicons.dev/icons?i=python,r,java,scala,js,ts&theme=dark" alt="Languages" />
 
 </td>
 <td width="50%" align="center">
@@ -19,7 +19,9 @@
 
 <br>
 
-<sub>Pandas • NumPy • scikit-learn • PyTorch • TensorFlow • Jupyter • Git • GitHub • Docker • Kubernetes • AWS • GCP • Linux • VS Code</sub>
+<img src="https://skillicons.dev/icons?i=pandas,numpy,scikitlearn,pytorch,tensorflow,jupyter&theme=dark" alt="Data Tools" />
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,gcp,linux,vscode&theme=dark" alt="Dev Tools" />
 
 </td>
 </tr>
