@@ -1,9 +1,5 @@
 <div align="center">
 
-<strong>Skills</strong>
-
-<br>
-
 <img src="https://skillicons.dev/icons?i=python,r,java,scala,ruby,js,ts,pandas,numpy,scikitlearn,pytorch,tensorflow,jupyter,git,github,docker,kubernetes,aws,gcp,linux,vscode&theme=dark" alt="Skills" />
 
 </div>
