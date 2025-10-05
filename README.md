@@ -13,9 +13,6 @@
   
   <h3>Research Interests</h3>
   <p>Machine Learning • Reinforcement Learning • Data Science • Robotics • Drones</p>
-  
-  <h3>Core Skills</h3>
-  <p>Python • Data Analysis • Ensemble Learning • Statistical Modeling</p>
 </div>
 
 ---
