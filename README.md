@@ -1,4 +1,4 @@
-## 📈 Status
+## Status
 
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=hinata-koizumi&locale=en&show_icons=true&rank_icon=github&include_all_commits=false&show=reviews,discussions_started,discussions_answered,prs_merged&number_format=long&theme=default&title_color=ffffff&text_color=ffffff&icon_color=ffffff&ring_color=ffffff&bg_color=35,473B7B,3584A7,30D2BE&border_radius=10&line_height=25&card_width=420" alt="github stats" height="200px" />
