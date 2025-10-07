@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <div style="max-width: 1200px; margin: 0 auto;">
+  <div style="max-width: 840px; margin: 0 auto;">
     <table>
       <tr>
         <td align="center" width="100%">
