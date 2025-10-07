@@ -15,18 +15,6 @@
 </div>
 
 <div align="center">
-  <div style="max-width: 870px; margin: 0 auto;">
-    <table>
-      <tr>
-        <td align="center" width="100%">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hinata-koizumi&layout=donut-vertical&langs_count=10&card_width=760&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=ffffff" alt="Most Used Languages (Donut)" width="100%" />
-        </td>
-      </tr>
-    </table>
-  </div>
-</div>
-
-<div align="center">
   <div style="max-width: 840px; margin: 0 auto;">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=hinata-koizumi&theme=github-dark&hide_border=true&area=true&title=Contribution%20Graph&t=1730832000" alt="Activity Graph" width="100%" height="400" />
   </div>
