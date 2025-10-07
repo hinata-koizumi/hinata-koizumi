@@ -7,7 +7,7 @@
     <table>
       <tr>
         <td align="center" width="100%">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hinata-koizumi&layout=compact&langs_count=14&card_width=780&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=ffffff" alt="Most Used Languages" width="100%" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hinata-koizumi&langs_count=16&card_width=760&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=ffffff" alt="Most Used Languages" width="100%" />
         </td>
       </tr>
     </table>
