@@ -3,14 +3,14 @@
 </div>
 
 <div align="center">
-  <div style="max-width: 1200px; margin: 0 auto;">
+  <div style="max-width: 1600px; margin: 0 auto;">
     <table>
       <tr>
         <td align="center" width="50%">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hinata-koizumi&layout=compact&langs_count=8&hide_title=true&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=ffffff&card_width=600" alt="Most Used Languages" width="100%" height="250" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hinata-koizumi&layout=compact&langs_count=8&hide_title=true&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=ffffff&card_width=800" alt="Most Used Languages" width="100%" height="300" />
         </td>
         <td align="center" width="50%">
-          <img src="https://github-readme-stats.vercel.app/api?username=hinata-koizumi&show_icons=true&rank_icon=github&hide_title=true&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=ffffff&icon_color=ffffff&card_width=600" alt="GitHub Stats" width="100%" height="250" />
+          <img src="https://github-readme-stats.vercel.app/api?username=hinata-koizumi&show_icons=true&rank_icon=github&hide_title=true&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=ffffff&icon_color=ffffff&card_width=800" alt="GitHub Stats" width="100%" height="300" />
         </td>
       </tr>
     </table>
