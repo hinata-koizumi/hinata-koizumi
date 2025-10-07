@@ -1,9 +1,0 @@
-# Recent Activity Config
-# Docs: https://github.com/Readme-Workflows/recent-activity
-
-ignored_events:
-  - fork
-  - watch
-
-repositories:
-  - hinata-koizumi/*
